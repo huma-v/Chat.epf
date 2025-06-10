@@ -1,5 +1,7 @@
 # Chat.epf
 
+![illustration](https://github.com/user-attachments/assets/2a458124-33c5-4275-ac3d-895c79240562)
+
 Обгортка навколо API OpenAI v1/chat/completions + Консоль запитів
 
 Має наступний функціонал:
